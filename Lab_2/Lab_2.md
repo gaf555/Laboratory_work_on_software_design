@@ -25,8 +25,10 @@
 
 ## Задание 3. CRC - карты
 
-
+![изображение](https://user-images.githubusercontent.com/78896451/134704597-59977d46-197c-494f-8dc9-853935e276c5.png)
+![изображение](https://user-images.githubusercontent.com/78896451/134704625-862a9eed-3eb4-4ed5-b481-3ab4d16a0078.png)
+![изображение](https://user-images.githubusercontent.com/78896451/134704655-9cf7824a-126e-474a-97a1-4cb35fdd476f.png)
 
 ## Задание 4. Диаграмма взаимодействий
 
-
+![изображение](https://user-images.githubusercontent.com/78896451/134702766-c5d19a70-6cbb-4af7-a600-31f47f999b7c.png)
